@@ -67,10 +67,10 @@ header {
 }
 header .profile-image {
   margin-top: 50px;
-  width: 150px;
-  height: 150px;
+  width: 175px;
+  height: 175px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 6px solid rgba(6, 27, 27, 0.521);
   transition: all .5s;
 }
 header .profile-image:hover {
